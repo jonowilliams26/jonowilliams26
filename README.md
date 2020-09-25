@@ -14,7 +14,6 @@
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/jonathanwilliams2696/)
 
 <br />
----
 
 ### 📺 Latest YouTube Videos
 
