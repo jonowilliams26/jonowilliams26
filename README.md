@@ -18,7 +18,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- Stay tuned!
+- [Coding the Backend Of A Web App In One Day](https://youtu.be/MCxtnTe5UMc)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://www.youtube.com/channel/UCkaGXH_Yzq45qJ-Em0612-Q)
