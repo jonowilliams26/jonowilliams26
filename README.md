@@ -20,6 +20,7 @@
 <!-- YOUTUBE:START -->
 - [Coding the Backend Of A Web App In One Day](https://youtu.be/MCxtnTe5UMc)
 - [Building a Windows Service Using C# and .NET Core](https://www.youtube.com/watch?v=9QZwo21OgXk)
+- [Coding a Web App Using Vue.js, Nuxt.js & Tailwind CSS](https://www.youtube.com/watch?v=wX9b5LEXtC8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCkaGXH_Yzq45qJ-Em0612-Q)
