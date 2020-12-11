@@ -1,6 +1,6 @@
 ## Hi there, I'm Jono. I like to code and make videos 👋
 
-- 🔭 I’m currently working at Glencore Coal Assests Australia
+- 🔭 I’m currently working at Blueshift
 - 💪 Fullstack Engineer
 - 💘 .NET Core
 - 🌱 I’m currently learning everything 🤣
