@@ -16,7 +16,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Cleaner Code In C# Using Middlewarew](https://youtu.be/4UdAhl6gWdM)
+- [Cleaner Code In C# Using Middleware](https://youtu.be/4UdAhl6gWdM)
 - [Dependency Injection In A Console App]()
 - [CQRS using C#, .NET 5 and MediatR](https://youtu.be/mdzEKGlH0_Q)
 - [Coding the Backend Of A Web App In One Day](https://youtu.be/MCxtnTe5UMc)
