@@ -16,8 +16,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [MediatR Caching Behavior - Caching In C# .NET Core Web API Using MediatR](https://youtu.be/86x_HEGOzws)
+- [MediatR Behaviours Explained](https://youtu.be/ET00fzkPLVU)
+- [Angular vs React vs Vue in 2021](https://youtu.be/c8jqw3A_MJY)
 - [Cleaner Code In C# Using Middleware](https://youtu.be/4UdAhl6gWdM)
-- [Dependency Injection In A Console App]()
+- [Dependency Injection In A Console App](https://youtu.be/VAQkk8vM53Q)
 - [CQRS using C#, .NET 5 and MediatR](https://youtu.be/mdzEKGlH0_Q)
 - [Coding the Backend Of A Web App In One Day](https://youtu.be/MCxtnTe5UMc)
 - [Building a Windows Service Using C# and .NET Core](https://www.youtube.com/watch?v=9QZwo21OgXk)
