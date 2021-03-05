@@ -16,6 +16,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [MediatR Validation Behavior](https://youtu.be/akvpDSrkCew)
 - [MediatR Caching Behavior - Caching In C# .NET Core Web API Using MediatR](https://youtu.be/86x_HEGOzws)
 - [MediatR Behaviours Explained](https://youtu.be/ET00fzkPLVU)
 - [Angular vs React vs Vue in 2021](https://youtu.be/c8jqw3A_MJY)
