@@ -7,7 +7,6 @@
 
 ### Connect with me:
 [![Subscribe On Youtube](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCkaGXH_Yzq45qJ-Em0612-Q)
-[![Follow on Twitter](https://img.shields.io/badge/Follow-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jonowilliams26)
 [![Connect on LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jonathan-williams-406891180/)
 <br />
 
