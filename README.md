@@ -10,6 +10,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The Strategy & Factory Pattern, The Best Software Design Pattern Combo](https://www.youtube.com/watch?v=aBOrVRKK3fA)
 - [How To Structure Your .NET APIs](https://www.youtube.com/watch?v=ZA2X1gaAhJk)
 - [Request Validation in Minimal APIs](https://www.youtube.com/watch?v=1qJTVcR1VN8)
 - [How to Stucture Minimal APIs like Controllers](https://www.youtube.com/watch?v=pojJSF-0JiU)
