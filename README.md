@@ -3,7 +3,7 @@
 - ⚡ Fun fact: MW2 is the greatest game of all time!
 
 ### Connect with me:
-[![Subscribe On Youtube](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jonowilliams26)
+[![Subscribe On Youtube](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCkaGXH_Yzq45qJ-Em0612-Q)
 [![Connect on LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jonathan-williams-406891180/)
 <br />
 
