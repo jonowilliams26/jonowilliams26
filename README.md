@@ -1,6 +1,7 @@
 ## Hi there, I'm Jono. I like to code and make videos 👋
 
-### Connect with me:
+**Subscribe to my Youtube Channel:** 
+
 [![Subscribe On Youtube](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCkaGXH_Yzq45qJ-Em0612-Q)
 <br />
 
