@@ -1,19 +1,17 @@
 ## Hi there, I'm Jono. I like to code and make videos 👋
 
-**Subscribe to my Youtube Channel:** 
+**Subscribe to my Youtube channel** 
 
-[![Subscribe On Youtube](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCkaGXH_Yzq45qJ-Em0612-Q)
+[![Subscribe On Youtube](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jonowilliams26)
 <br />
 
 ### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START -->
 - [The Strategy & Factory Pattern, The Best Software Design Pattern Combo](https://www.youtube.com/watch?v=aBOrVRKK3fA)
 - [How To Structure Your .NET APIs](https://www.youtube.com/watch?v=ZA2X1gaAhJk)
 - [Request Validation in Minimal APIs](https://www.youtube.com/watch?v=1qJTVcR1VN8)
 - [How to Stucture Minimal APIs like Controllers](https://www.youtube.com/watch?v=pojJSF-0JiU)
 - [.NET App Configuration and appsettings.json EXPLAINED!](https://www.youtube.com/watch?v=J5V6mnBSdu8)
 - [Common EF Core Mistakes](https://www.youtube.com/watch?v=5vU8QMp8wp8)
-<!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/@jonowilliams26/videos)
